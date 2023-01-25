@@ -31,5 +31,4 @@ def get_e(n):
 plt.figure(figsize=(9,9))
 plt.contourf(X, Y, get_e(4)**2, 20)
 
-
 plt.show()
