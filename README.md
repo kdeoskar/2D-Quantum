@@ -1,5 +1,5 @@
 # 2D-Quantum
-Eigenstates of a 2-D Potential
+Solves the Time Independent Schrodinger Equation in 2 Dimensions.
 
 # Approach
 We use the Finite Differences method which essentially turns the Shrodinger Equation into a system of linear equations, which we solve using the scipy module. 
