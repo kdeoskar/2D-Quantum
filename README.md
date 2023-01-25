@@ -1,6 +1,11 @@
 # 2D-Quantum
 Eigenstates of a 2-D Potential
 
+# Approach
+We use the Finite Differences method which essentially turns the Shrodinger Equation into a system of linear equations, which we solve using the scipy module. 
+
+![Probability Distribution of 4th Eigenfunction](https://github.com/KD2106/2D-Quantum/blob/main/Figure_1.png)
+
  This project is heavily inspired by the following YouTube videos and reddit posts:
 1. https://www.youtube.com/watch?v=ay0zZ8SUMSk 
 2. https://www.youtube.com/watch?v=DF1SnjXZcbM
