@@ -1,8 +1,8 @@
 # 2D-Quantum
-Solves the Time Independent Schrodinger Equation in 2 Dimensions.
+Solves the Time Independent Schrödinger Equation in 2 Dimensions.
 
 # Approach
-We use the Finite Differences method which essentially turns the Shrodinger Equation into a system of linear equations, which we solve using the scipy module. 
+We use the Finite Differences method which essentially turns the Schrödinger Equation into a system of linear equations, which we solve using the scipy module. 
 
 ![Probability Distribution of 4th Eigenfunction](https://github.com/KD2106/2D-Quantum/blob/main/Figure_1.png)
 
